@@ -1,2 +1,21 @@
 node_modules/
 .DS_Store
+# AI agent metadata
+CLAUDE.md
+.claude/
+.serena/
+.windsurf/
+.codeiumignore
+memory-bank/
+reference_files/
+# OS / editor
+*.swp
+*.bak
+*.backup
+# Build / deps
+dist/
+build/
+.venv/
+venv/
+__pycache__/
+*.pyc
